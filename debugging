@@ -1,0 +1,4 @@
+To change the web content dynamically
+
+app.debug = True
+app.run(debug=True)

@@ -1,0 +1,14 @@
+git init  # Execute it into the folder where the project is.
+git config user.name='Kennedy Sanchez'
+git config user.email='ksanchez@cldeveloper.com'
+git status
+
+[.gitignore]
+*~
+*.pyc
+*.swp
+*#
+.metadata
+.DS_Store
+*.log
+venv

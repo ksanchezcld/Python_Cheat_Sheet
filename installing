@@ -1,0 +1,12 @@
+[INSTALLING]
+
+apt-get easy_install
+easy_install pip
+pip install virtualenv
+pip install python
+pip install flask
+pip install pillow
+
+[CONFIGURING]
+virtualenv project
+source project/bin/activate

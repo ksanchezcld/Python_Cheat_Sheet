@@ -1,0 +1,4 @@
+<int:stuff>    # Accepts Integers
+<float:stuff>  # Accepts Floats
+<path:stuff>   # Accepts Slashes	
+<stuff>
