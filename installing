@@ -10,3 +10,5 @@ pip install pillow
 [CONFIGURING]
 virtualenv project
 source project/bin/activate
+
+
