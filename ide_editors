@@ -1,0 +1,10 @@
+sublime
+pycharm   - is developed by JetBrains
+notepad++
+atom
+Eclipse(PyDev Plugin)
+
+
+[Notes]
+You need to install the PyDev plugin separately after setting up Eclipse. Use the tutorial from Lars Vogel to install PyDev at http://www.vogella.com/tutorials/Python/article.html to install PyDev. Installation instructions are also available
+at http://pydev.org/.

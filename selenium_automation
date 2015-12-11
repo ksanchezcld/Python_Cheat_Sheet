@@ -1,0 +1,62 @@
+selenium(host, port, browserStartCommand, ...)	Defines an object that runs Selenium commands.
+
+
+selenium.common.exceptions	Exceptions that may happen in all the webdriver code.
+
+Webdriver.common¶
+selenium.webdriver.common.action_chains	The ActionChains implementation,
+selenium.webdriver.common.alert	The Alert implementation.
+selenium.webdriver.common.by	The By implementation.
+selenium.webdriver.common.desired_capabilities	The Desired Capabilities implementation.
+selenium.webdriver.common.keys	The Keys implementation.
+selenium.webdriver.common.touch_actions	The Touch Actions implementation
+selenium.webdriver.common.utils	The Utils methods.
+selenium.webdriver.common.proxy	The Proxy implementation.
+selenium.webdriver.common.html5.application_cache	The ApplicationCache implementaion.
+
+Webdriver.support
+selenium.webdriver.support.abstract_event_listener	
+selenium.webdriver.support.color	
+selenium.webdriver.support.event_firing_webdriver	
+selenium.webdriver.support.expected_conditions	
+selenium.webdriver.support.select	
+selenium.webdriver.support.wait
+
+Webdriver.chrome¶
+selenium.webdriver.chrome.service	
+selenium.webdriver.chrome.webdriver	
+
+Webdriver.firefox¶
+selenium.webdriver.firefox.extension_connection	
+selenium.webdriver.firefox.firefox_binary	
+selenium.webdriver.firefox.firefox_profile	
+selenium.webdriver.firefox.webdriver
+
+Webdriver.ie
+selenium.webdriver.ie.webdriver
+
+Webdriver.opera¶
+selenium.webdriver.opera.service	
+selenium.webdriver.opera.webdriver
+
+Webdriver.phantomjs¶
+selenium.webdriver.phantomjs.service	
+selenium.webdriver.phantomjs.webdriver	
+
+Webdriver.remote
+selenium.webdriver.remote.command	
+selenium.webdriver.remote.errorhandler	
+selenium.webdriver.remote.remote_connection	
+selenium.webdriver.remote.utils	
+selenium.webdriver.remote.webdriver	The WebDriver implementation.
+selenium.webdriver.remote.webelement
+
+
+[Samples]
+https://github.com/upgundecha/learnsewithpython
+
+http://chimera.labs.oreilly.com/books/1234000000754/ch04.html#_using_selenium_to_test_user_interactions
+
+http://selenium.googlecode.com/git/docs/api/py/api.html
+http://docs.seleniumhq.org/docs/
+https://code.google.com/p/selenium/w/list
